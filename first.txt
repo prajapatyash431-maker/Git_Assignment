@@ -1,2 +1,3 @@
 I am learning Git and GitHub
 I have learned git restore command
+Practicing git diff command
