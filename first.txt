@@ -1,0 +1,7 @@
+I am learning Git and GitHub
+I have learned git restore command
+Practicing git diff command
+This change is only for feature branch.
+hii
+kesa hai abhi
+abhi mai isme kuch bhi change kar sakta hu kyunki ye git ignore mai hai.
