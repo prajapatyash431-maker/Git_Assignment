@@ -1,2 +1,2 @@
-.env
-third.txt
+first.txt
+*.cpp
